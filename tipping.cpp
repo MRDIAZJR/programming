@@ -1,5 +1,5 @@
-/* tipping.cpp computes the tipping amount due as a function of cost of food at a restaurant
-or with a slight modification services/goods provided ar a hotel or other establishments.
+/* tipping.cpp computes the tipping amount due as a function of food cost at a restaurant
+or with a slight modification, the cost for services/goods provided at a hotel or other establishments.
 
 Program designed by M. R. Diaz, Jr. on January 9th, 2018
 
