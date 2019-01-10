@@ -31,10 +31,17 @@ int main()
 	cout << "\nA circle with a " << radius << " meter(s) radius has an area of " << area << " squared meters\n"
 		<< "and a diameter of " << diameter << " meters " << " with a circumference of " << circumference << " meters.\n";
 
-	system("PAUSE");
-
+	system("PAUSE");  //console output window remains on
 	return 0;
 	
 	//End of program. 
-
 }
+
+Sample Output:
+
+This program computes the area, circumference and diameter of a circle.
+Please enter the radius in meters (decimals OK) of circle: 1.84
+
+A circle with a 1.84 meter(s) radius has an area of 10.6362 squared meters
+and a diameter of 3.68 meters  with a circumference of 11.5611 meters.
+Press any key to continue . . .
