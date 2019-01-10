@@ -33,3 +33,14 @@ int main()
 	//End of program
 
 }
+
+Sample Output:
+
+This program calculates the total bill at a restaurant including tip(s).
+Please enter the total cost (USD only) of food consumed at restaurant: 125.69
+
+Please enter the expected tipping percentage rate, (e.g. 0.15): 0.12
+
+The total amount due including tip(s) with an initial bill of $125.69 is $140.773
+Thank you for your business. We hope to see you again soon. Good bye.
+Press any key to continue . . .
