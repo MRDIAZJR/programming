@@ -1,2 +1,2 @@
 # programming
-Files of programs I come up with using primarily C++ code and to a less extent JAVA. Programming is fun!
+Programs I come up with in C++ & JAVA with Visual Studio & Eclipse IDEs respectively. Programming is fun!
