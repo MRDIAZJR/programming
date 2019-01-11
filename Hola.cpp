@@ -23,4 +23,14 @@ int main()
 	//Fin del programa
 }
 
+// This is a classic with any programming language.
 
+Sample run:
+
+This program greets the user with a personalized message.
+Please enter your first name: Robert
+
+Welcome to the wonderful world of C++ Robert!
+Press any key to continue . . .
+
+	
